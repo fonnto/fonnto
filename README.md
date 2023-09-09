@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm ilya</h1>
-<h3 align="center">Young developer from Russia</h3>
+### Hi there 👋, my name is Ilya
+#### I young developer from Russia
+![I young developer from Russia](https://sun9-2.userapi.com/impf/04YNzwN7Deaovy6kVkddW0CqoMJtAQrLCZm6xw/RulZMSlEiZM.jpg?size=1818x606&quality=95&crop=0,0,1201,400&sign=d505c816648ff6c0761881d618d12eac&type=cover_group)
 
-- 🌱 I’m currently learning **python,c++,arduino**
+I post my little scripts to simplify the routine
 
-- ⚡ Fun fact **ex coach from cs:go**
+Skills: Python / C++ / Arduino / HTML / CSS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Python,C++ 
+- 📫 How to reach me: fonnto56@gmail.com 
+- ⚡ Fun fact: ex coach/analyst from CS:GO 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fonnto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/fonnto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/fonnto/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/esea.svg' alt='esea' height='40'>](https://play.esea.net/users/2709410)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/faceit.svg' alt='faceit' height='40'>](https://www.faceit.com/ru/players/fonnto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/fonnto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/inth8c4npncy19b7b5e7op13i?si=7BrJwRJJRKmoW_3p23a_WA)  
+
