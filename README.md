@@ -16,8 +16,5 @@ Skills: Python / C++ / Arduino / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fonnto&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fonnto)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=fonnto)  
 
-![Profile views](https://gpvc.arturio.dev/fonnto)  
