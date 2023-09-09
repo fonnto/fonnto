@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ilya
 #### I young developer from Russia
-![I young developer from Russia](https://sun9-2.userapi.com/impf/04YNzwN7Deaovy6kVkddW0CqoMJtAQrLCZm6xw/RulZMSlEiZM.jpg?size=1818x606&quality=95&crop=0,0,1201,400&sign=d505c816648ff6c0761881d618d12eac&type=cover_group)
+![I young developer from Russia](https://i.imgur.com/qlYVcGI.jpg)
 
 I post my little scripts to simplify the routine
 
