@@ -2,11 +2,11 @@
 #### I young developer from Russia
 ![I young developer from Russia](https://i.imgur.com/qlYVcGI.jpg)
 
-I post my little scripts to simplify the routine
+I will upload small scripts to the general access to simplify the routine and over time large projects that I am already working on will appear :)
 
-Skills: Python / C++ / Arduino / HTML / CSS
+Skills: Python / C++ / Arduino / HTML / CSS / SQL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I am currently working on my FML league and this page. 
 - 🌱 I’m currently learning Python,C++ 
 - 📫 How to reach me: fonnto56@gmail.com 
 - ⚡ Fun fact: ex coach/analyst from CS:GO 
